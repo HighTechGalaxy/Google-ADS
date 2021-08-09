@@ -6,3 +6,10 @@
 4)Shipping policy
 5)Phone Number, Email Id & address Need for Contact Page 
 
+
+# Goal Set up for Shopify
+1) Cart -> /cart
+2) Shipping -> /checkout/shipping
+3) Payment -> /checkout/payment
+4) Order Recevied -> /checkout/thank_you
+
